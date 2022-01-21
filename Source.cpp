@@ -1,4 +1,4 @@
-//encuentra el promedio de n alumnos segun sus 4 notas ingresadas por teclado
+
 #include<iostream>
 using namespace std;
 int main() {
